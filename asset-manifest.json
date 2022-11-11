@@ -1,11 +1,11 @@
 {
-  "main.js": "/adarshnub/note-app.git/static/js/main.97350c6e.chunk.js",
-  "main.js.map": "/adarshnub/note-app.git/static/js/main.97350c6e.chunk.js.map",
-  "static/js/1.7fe6c5c5.chunk.js": "/adarshnub/note-app.git/static/js/1.7fe6c5c5.chunk.js",
-  "static/js/1.7fe6c5c5.chunk.js.map": "/adarshnub/note-app.git/static/js/1.7fe6c5c5.chunk.js.map",
-  "runtime~main.js": "/adarshnub/note-app.git/static/js/runtime~main.577e0bd1.js",
-  "runtime~main.js.map": "/adarshnub/note-app.git/static/js/runtime~main.577e0bd1.js.map",
-  "index.html": "/adarshnub/note-app.git/index.html",
-  "precache-manifest.d4e98901f0577de05b6daa51239a6b37.js": "/adarshnub/note-app.git/precache-manifest.d4e98901f0577de05b6daa51239a6b37.js",
-  "service-worker.js": "/adarshnub/note-app.git/service-worker.js"
+  "main.js": "/note-app/static/js/main.97350c6e.chunk.js",
+  "main.js.map": "/note-app/static/js/main.97350c6e.chunk.js.map",
+  "static/js/1.7fe6c5c5.chunk.js": "/note-app/static/js/1.7fe6c5c5.chunk.js",
+  "static/js/1.7fe6c5c5.chunk.js.map": "/note-app/static/js/1.7fe6c5c5.chunk.js.map",
+  "runtime~main.js": "/note-app/static/js/runtime~main.7ea2b3f9.js",
+  "runtime~main.js.map": "/note-app/static/js/runtime~main.7ea2b3f9.js.map",
+  "index.html": "/note-app/index.html",
+  "precache-manifest.370866286a1af2aa836c722063000328.js": "/note-app/precache-manifest.370866286a1af2aa836c722063000328.js",
+  "service-worker.js": "/note-app/service-worker.js"
 }
